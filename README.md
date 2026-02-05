@@ -2,7 +2,7 @@
 
 A GNN-based recommendation system implemented on the MovieLens-100K dataset, leveraging graph neural network to capture user-item interaction features for personalized item recommendation.
 
-👉 Project Development Pitfalls & Detailed Analysis: [深度学习新手踩坑实录](https://juejin.cn/post/7602901565033725998)
+👉 Project Development Pitfalls & Detailed Analysis: [深度学习新手踩坑实录](https://zhuanlan.zhihu.com/p/2002486612634916475)
 
 ## 🛠️ 1. Environment Setup
 
